@@ -6,3 +6,4 @@
 An example package for the workshop.
 
 
+Improve documentation!
